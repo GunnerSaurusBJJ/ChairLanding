@@ -1,2 +1,2 @@
 # chairwebsite
-https://gunnersaurusbjj.github.io/chairwebsite/
+https://gunnersaurusbjj.github.io/ChairLanding/
